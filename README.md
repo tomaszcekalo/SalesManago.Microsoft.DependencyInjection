@@ -7,3 +7,5 @@
 IServiceCollection extension to add AddSalesManago method
 
 This is to be used with https://github.com/tomaszcekalo/SalesManago 
+
+[![CodeFactor](https://www.codefactor.io/repository/github/tomaszcekalo/SalesManago.Microsoft.DependencyInjection/badge)](https://www.codefactor.io/repository/github/tomaszcekalo/SalesManago.Microsoft.DependencyInjection)
